@@ -58,7 +58,7 @@
 2. Clone the repo to local:
 
    ```bash
-   git clone https://github.com/LSPosed/MagiskOnWSALocal.git --depth 1
+   git clone https://github.com/hanifikorkmaz184-art/MagiskOnWSALocal.git --depth 1
    ```
 
 3. Run `cd MagiskOnWSALocal`.
