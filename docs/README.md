@@ -2,6 +2,8 @@
 
 :warning: Magisk on WSA will no longer be available after March 5, 2025. [Learn more](https://learn.microsoft.com/en-us/windows/android/wsa/).
 
+:warning: The build stops because it cannot find a compatible KernelSU release for the 5.15.104 kernel version used by WSA; therefore, build it on a real Linux system.
+
 :warning: For fork developers: Please don't build using GitHub Actions, as GitHub will count your forked GitHub Actions usage against this upstream repository, which may cause this upstream repository gets disabled by GitHub staff like [MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA) because of numerous forks building GitHub Actions, and counting the forks' Action usage against this upstream repository.
 
 ## Support for generating from these systems
